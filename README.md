@@ -1,5 +1,7 @@
 # remotelyshutdownwindowthroughaphone
+*For Educational purpose only, I hold no responsibilites as to however you use it.
 This script allows you to remotely shutdown your pc via your phone. Both devices must be in the same network.
+
 
 This works for Python 3.5.
 
